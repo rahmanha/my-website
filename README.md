@@ -1,8 +1,5 @@
 # my-website
 My temporary website
 
-# made some changes for commit test
-A new line.
-
-# Add changes to exmaple branch
-A new line added to exmple branch
+# New update to a new branch update-readme local
+A new line added to local version of the readme file today (27/4/2020) - 2
