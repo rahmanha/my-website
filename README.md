@@ -4,8 +4,6 @@ My temporary website
 # made some changes for commit test
 A new line.
 
-# Add changes to exmaple branch
-A new line added to exmple branch
-
-# New update to a new branch Update Readme
-A new line 2 to the new branch
+# New update to a new branch update-readme
+Added new lines today 27/4/2020
+This is second line
